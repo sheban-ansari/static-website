@@ -33,3 +33,9 @@ Each page is connected using a common navigation bar.
 - Mobile-friendly design
 
 ---
+
+## Live Demo
+
+[Click Here to View Project](https://static-website-pi-ten.vercel.app/)
+
+---
